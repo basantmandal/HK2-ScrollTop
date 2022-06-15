@@ -81,6 +81,14 @@ Feel Free to send your suggestions of any changes/improvements, will be happy to
 
 Once module is enabled you can see it on all pages. Please check the Screenshots
 
+### Screenshots
+
+![screenshot1](docs/images/screenshot1.png)
+
+![screenshot2](docs/images/screenshot2.png)
+
+![screenshot3](docs/images/screenshot3.png)
+
 ### Version Support
 
 Magento 2.3.x - 2.4.x
