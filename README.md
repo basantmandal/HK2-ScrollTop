@@ -2,9 +2,9 @@
 
 ### Overview
 
-Scroll Top adds an intuitive icon at the bottom-right corner of each page so that with one click you will be at the top of the page. No more dragging of the scroll bar. It will be just fun and ergonomic to use it. Scroll Top is an uncomplicated free Open Source Magento Module allowing site visitors immediately and seamlessly get back to the top of your web page after scrolling a lengthy pages.
+Scroll Top adds an intuitive icon at the bottom-right corner of each page so that with one click you will be at the top of the page. No more dragging of the scroll bar. It will be just fun and ergonomic to use. Scroll Top is an uncomplicated free Open Source Magento Module allowing site visitors to immediately and seamlessly get back to the top of your web page after scrolling a lengthy page.
 
-**Please Note**:- Scroll Buttom Automatically gets activated when you scroll down.
+**Please Note**:- This Module Adds Scroll to Top Button in Magento Store Frontend. Scroll to Top Button Automatically gets activated when you scroll down.
 
 ### Features
 
@@ -80,14 +80,6 @@ Feel Free to send your suggestions of any changes/improvements, will be happy to
 ### Usage - How Does The Extension Work?
 
 Once module is enabled you can see it on all pages. Please check the Screenshots
-
-### Screenshots
-
-![screenshot1](docs/images/screenshot1.png)
-
-![screenshot2](docs/images/screenshot2.png)
-
-![screenshot3](docs/images/screenshot3.png)
 
 ### Version Support
 
