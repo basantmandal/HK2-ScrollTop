@@ -1,27 +1,26 @@
-<!--
- /**
- * @author      Basant Mandal - HK2 (HashTag Kitto)
- * @copyright   Copyright (c) 2022 Basant Mandal - HK2 
- * @package     HK2_ScrollTop
- * @version     1.0.0
- */
--->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
         <tab id="hk2_options_tab" sortOrder="3000">
             <label>HK2</label>
         </tab>
-        <section id="hk2_options_section_scrollTop" translate="label" type="text" sortOrder="0" showInDefault="1" showInWebsite="1" showInStore="1">
-            <label>Scroll Top</label>
-            <tab>hk2_options_tab</tab>
+        <section id="hk2_scrollTop_section1" translate="label" type="text" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label><![CDATA[ScrollTop]]></label>
+            <tab>hk2_module_settings</tab>
             <resource>HK2_ScrollTop::core_config</resource>
-            <group id="hk2scrolltop_settings" translate="label" type="text" sortOrder="250" showInDefault="1">
-                <label>Settings</label>
-                <field id="enable" translate="label" type="select" sortOrder="1" showInDefault="1">
-                    <label>Enable</label>
+
+            <!-- Group 1 Settings -->
+            <group id="hk2_scrolltop_section1_group1" translate="label" type="text" sortOrder="250" showInDefault="1">
+                <label><![CDATA[Settings]]></label>
+                <field id="hk2_scrolltop_enable" translate="label" type="select" sortOrder="1" showInDefault="1">
+                    <label><![CDATA[Enable]]></label>
                     <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                    <comment>
+                        <![CDATA[Enable_Help_Message]]>
+                    </comment>
                 </field>
             </group>
+
         </section>
     </system>
 </config>
+ 
