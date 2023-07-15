@@ -1,16 +1,24 @@
 <?php
+
 /**
- * HK2_ScrollTop
+ * Basant Mandal (HK2 - HashTagKitto)
  *
- * Do not edit or add to this file if you wish to upgrade this extension to newer version in the future.
+ * NOTICE OF LICENSE
  *
- * @version         1.0.0
- * See COPYING.txt for license details.
- * @package         HK2_ScrollTop
+ * This source file is subject to the Basant Mandal (HK2 - HashTagKitto) license that is
+ * available in this module named LICENSE.txt 
+ * A copy of license is also avaialble at url - https://www.hashtagkitto.co.in/LICENSE.txt
  *
- * @author          Basant Mandal - HK2
- * @copyright       Copyright (c)  Basant Mandal - HK2. All rights reserved.
- * @license         For License please read license.txt
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade this extension to newer
+ * version in the future.
+ *
+ * @category    Basant Mandal (HK2 - HashTagKitto)
+ * @package     HK2_ScrollTop
+ * @copyright   Copyright (c) Basant Mandal (HK2 - HashTagKitto) (https://www.hashtagkitto.co.in/) All rights reserved.
+ * @license     https://hashtagkitto.co.in/LICENSE.txt
+ * @license     LICENSE.txt - Availabe in this Module Root Folder
  */
 
 use Magento\Framework\Component\ComponentRegistrar;
