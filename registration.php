@@ -7,7 +7,7 @@
  *
  * This source file is subject to the Basant Mandal (HK2 - HashTagKitto) license that is
  * available in this module named LICENSE.txt 
- * A copy of license is also avaialble at url - https://www.hashtagkitto.co.in/LICENSE.txt
+ * A copy of license is also avaialble at url - https://www.basantmandal.in/LICENSE.txt
  *
  * DISCLAIMER
  *
@@ -16,8 +16,8 @@
  *
  * @category    Basant Mandal (HK2 - HashTagKitto)
  * @package     HK2_ScrollTop
- * @copyright   Copyright (c) Basant Mandal (HK2 - HashTagKitto) (https://www.hashtagkitto.co.in/) All rights reserved.
- * @license     https://hashtagkitto.co.in/LICENSE.txt
+ * @copyright   Copyright (c) Basant Mandal (HK2 - HashTagKitto) (https://www.basantmandal.in/) All rights reserved.
+ * @license     https://www.basantmandal.in/LICENSE.txt
  * @license     LICENSE.txt - Availabe in this Module Root Folder
  */
 

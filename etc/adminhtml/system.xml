@@ -1,26 +1,28 @@
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
         <tab id="hk2_options_tab" sortOrder="3000">
             <label>HK2</label>
         </tab>
-        <section id="hk2_scrollTop_section1" translate="label" type="text" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="1">
-            <label><![CDATA[ScrollTop]]></label>
-            <tab>hk2_module_settings</tab>
+        <section id="hk2_scrollTop_section1" showInDefault="1" showInWebsite="0" showInStore="0" sortOrder="2"
+                 translate="label">
+            <label><![CDATA[ScrollTop_Configuration]]></label>
+            <tab>hk2_options_tab</tab>
             <resource>HK2_ScrollTop::core_config</resource>
 
             <!-- Group 1 Settings -->
             <group id="hk2_scrolltop_section1_group1" translate="label" type="text" sortOrder="250" showInDefault="1">
-                <label><![CDATA[Settings]]></label>
+                <label><![CDATA[ScrollTop_GeneralOptions]]></label>
                 <field id="hk2_scrolltop_enable" translate="label" type="select" sortOrder="1" showInDefault="1">
-                    <label><![CDATA[Enable]]></label>
+                    <label><![CDATA[ScrollTop_Enable]]></label>
                     <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
                     <comment>
-                        <![CDATA[Enable_Help_Message]]>
+                        <![CDATA[ScrollTop_Enable_Help_Message]]>
                     </comment>
                 </field>
             </group>
 
         </section>
     </system>
-</config>
- 
+</config> 
+
