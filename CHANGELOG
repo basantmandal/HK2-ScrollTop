@@ -1,4 +1,4 @@
-v1.1.1 - 12-July-2024
+v1.2.0 - 25-Dec-2024
 (*) Fixed - Undefined array key "id" in /vendor/magento/module-config/Model/Config/Structure/Element/Iterator.php on line 63 [] []
 (*) Updated Backend Settings/Configuration - Tabs
 (*) Updated Language Files
