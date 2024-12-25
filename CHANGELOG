@@ -1,3 +1,9 @@
+v1.1.1 - 12-July-2024
+(*) Fixed - Undefined array key "id" in /vendor/magento/module-config/Model/Config/Structure/Element/Iterator.php on line 63 [] []
+(*) Updated Backend Settings/Configuration - Tabs
+(*) Updated Language Files
+(*) Added Hindi Translation
+
 v1.1.0 - 15-July-2023
 (*) Added Language/Localization
 (*) Fixed Fast Change Issue on Mouse Hover Out
