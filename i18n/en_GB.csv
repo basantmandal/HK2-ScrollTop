@@ -1,4 +1,4 @@
-"ScrollTop", "Scroll Top",
-"Settings", "Settings",
-"Enable", "Enable",
-"Enable_Help_Message", "Enables Scroll Top Icon in your Magento Frontend"
+"ScrollTop_Configuration", "Scroll Top",
+"ScrollTop_Enable", "Enable Module",
+"ScrollTop_Enable_Help_Message", "Enables Scroll Top Icon in your Magento Frontend"
+"ScrollTop_GeneralOptions", "General Options" 
