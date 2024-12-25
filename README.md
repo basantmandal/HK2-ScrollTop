@@ -23,7 +23,7 @@ This is a Open Source - Free to use Module. No charge or any fee is there to use
 
 ### Method 1: Install ready-to-paste package
 
-[Download Link - HK2 - ScrollTop - (https://github.com/basantmandal/HK2-ScrollTop/archive/refs/tags/1.1.0.zip)](https://github.com/basantmandal/HK2-ScrollTop/archive/refs/tags/1.1.0.zip)
+[Download Link - HK2 - ScrollTop - (https://github.com/basantmandal/HK2-ScrollTop/archive/refs/tags/1.2.0.zip)](https://github.com/basantmandal/HK2-ScrollTop/archive/refs/tags/1.2.0.zip)
 
 Download the zip package and unzip it in app/code folder.
 
@@ -100,7 +100,8 @@ Feel Free to send your suggestions of any changes/improvements, will be happy to
 
 Once module is enabled you can see it on all pages. Please check the Screenshots
 
-![screenshot1](docs/images/Screenshot_02.png)
+![screenshot1](docs/images/Screenshot_01.png)
+![screenshot2](docs/images/Screenshot_02.png)
 
 ## 🤫 Privacy
 
