@@ -23,7 +23,7 @@ This is a Open Source - Free to use Module. No charge or any fee is there to use
 
 ### Method 1: Install ready-to-paste package
 
-[Download Link - HK2 - ScrollTop - (https://github.com/basantmandal/HK2-ScrollTop/archive/refs/tags/1.2.0.zip)](https://github.com/basantmandal/HK2-ScrollTop/archive/refs/tags/1.2.0.zip)
+[Download Link - HK2 - ScrollTop - (https://github.com/basantmandal/HK2-ScrollTop-Magento-Module/releases)](https://github.com/basantmandal/HK2-ScrollTop-Magento-Module/releases)
 
 Download the zip package and unzip it in app/code folder.
 
@@ -113,7 +113,7 @@ For support or any bug report or changes mail me at - <support@hashtagkitto.co.i
 
 ## 🐞 Bug Report
 
-Please open an [issue](https://github.com/basantmandal/HK2-ScrollTop/issues) on GitHub.
+Please open an [issue](https://github.com/basantmandal/HK2-ScrollTop-Magento-Module/issues) on GitHub.
 
 When filing a bug remember that the better written the bug is, the more likely it is to be fixed.
 
@@ -143,7 +143,7 @@ By using any Product/Module/Application from Basant Mandal A.K.A (HK2 - Hash Tag
 
 ## 💖Like my work? Help Us
 
-Please rate my project or give some stars at [https://github.com/basantmandal/HK2-ScrollTop/issues](https://github.com/basantmandal/HK2-ScrollTop/issues). You can also contribute to make my Open Source Contribution more frequent and help others - [https://www.buymeacoffee.com/basantmandal](https://www.buymeacoffee.com/basantmandal) or [https://www.basantmandal.in/buymecoffee](https://www.basantmandal.in/buymecoffee)
+Please rate my project or give some stars at [https://github.com/basantmandal/HK2-ScrollTop-Magento-Module](https://github.com/basantmandal/HK2-ScrollTop-Magento-Module). You can also contribute to make my Open Source Contribution more frequent and help others - [https://www.buymeacoffee.com/basantmandal](https://www.buymeacoffee.com/basantmandal) or [https://www.basantmandal.in/buymecoffee](https://www.basantmandal.in/buymecoffee)
 
 ## 📫 Feedback
 
